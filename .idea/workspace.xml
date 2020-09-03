@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="ATP-Project-PartC:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DebuggerManager">
+    <breakpoint_any default_suspend_policy="SuspendAll" default_condition_enabled="true" converted="true">
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+      <breakpoint>
+        <option name="NOTIFY_CAUGHT" value="true" />
+        <option name="NOTIFY_UNCAUGHT" value="true" />
+        <option name="ENABLED" value="false" />
+        <option name="LOG_ENABLED" value="false" />
+        <option name="LOG_EXPRESSION_ENABLED" value="false" />
+        <option name="SUSPEND_POLICY" value="SuspendAll" />
+        <option name="SUSPEND" value="true" />
+        <option name="COUNT_FILTER_ENABLED" value="false" />
+        <option name="COUNT_FILTER" value="0" />
+        <option name="CONDITION_ENABLED" value="true" />
+        <option name="CLASS_FILTERS_ENABLED" value="false" />
+        <option name="INSTANCE_FILTERS_ENABLED" value="false" />
+        <option name="CONDITION" value="" />
+        <option name="LOG_MESSAGE" value="" />
+      </breakpoint>
+    </breakpoint_any>
+    <ui_properties converted="true" />
+    <breakpoint_rules converted="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JavaFxApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ATP-Project-PartC.iml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="79" lean-forward="true" selection-start-line="6" selection-start-column="79" selection-end-line="6" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/ATP-Project-PartB.jar!/algorithms/mazeGenerators/MyMazeGenerator.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="208">
+              <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/ATP-Project-PartB.jar!/algorithms/mazeGenerators/SimpleMazeGenerator.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-283">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="jar://$PROJECT_DIR$/lib/ATP-Project-PartB.jar!/Client/Client.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/ATP-Project-PartB.jar!/algorithms/mazeGenerators/EmptyMazeGenerator.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/lib/ATP-Project-PartB.jar!/algorithms/mazeGenerators/Maze.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="32" selection-start-line="32" selection-end-line="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/View/MazeDisplayer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1309">
+              <caret line="90" selection-start-line="90" selection-end-line="90" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="FxmlFile" />
+        <option value="XSLT Stylesheet" />
+        <option value="JavaFXApplication" />
+      </list>
+    </option>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="288" />
+    <option name="y" value="49" />
+    <option name="width" value="697" />
+    <option name="height" value="735" />
+  </component>
+  <component name="ProjectId" id="1dWsN5bAqpBndF3MZoR07MgXREB" />
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ATP-Project-PartC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATP-Project-PartC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ATP-Project-PartC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATP-Project-PartC" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ATP-Project-PartC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATP-Project-PartC" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="ATP-Project-PartB.jar" type="ab9368bb:PsiFileNode" />
+            </path>
+            <path>
+              <item name="ATP-Project-PartC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATP-Project-PartC" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="ATP-Project-PartB.jar" type="ab9368bb:PsiFileNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ATP-Project-PartC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATP-Project-PartC" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="ATP-Project-PartB.jar" type="ab9368bb:PsiFileNode" />
+              <item name="IO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ATP-Project-PartC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATP-Project-PartC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ATP-Project-PartC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATP-Project-PartC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ATP-Project-PartC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATP-Project-PartC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sample" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ATP-Project-PartC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ATP-Project-PartC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="View" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ATP-Project-PartC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="OverrideImplement.combined" value="false" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593356920869" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/ATP-Project-PartC" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15527344" />
+    <property name="project.structure.side.proportion" value="0.08510637" />
+    <property name="recentsLimit" value="5" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="View" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Niv\IdeaProjects\LastTime\resources\images" />
+      <recent name="C:\Users\Niv\IdeaProjects\LastTime\src\View" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="View" />
+      <recent name="ViewModel" />
+      <recent name="Model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Niv\IdeaProjects\LastTime\resources\Font" />
+      <recent name="C:\Users\Niv\IdeaProjects\LastTime\src" />
+      <recent name="C:\Users\Niv\IdeaProjects\LastTime\src\View" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <module name="ATP-Project-PartC" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="sample.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+      <created>1359379246138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1359379246138</updated>
+      <workItem from="1359379250712" duration="1302000" />
+      <workItem from="1593355753450" duration="1749000" />
+      <workItem from="1593358278254" duration="209000" />
+      <workItem from="1593451166870" duration="607000" />
+      <workItem from="1593972037344" duration="920000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4787000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32569557" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="222" y="16" key="#Custom_Plugin_Repositories" timestamp="1593158341889">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state x="222" y="16" key="#Custom_Plugin_Repositories/0.0.1300.768@0.0.1300.768" timestamp="1593158341889" />
+    <state x="243" y="43" key="#Project_Structure" timestamp="1593355179635">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state x="243" y="43" key="#Project_Structure/0.0.1302.768@0.0.1302.768" timestamp="1593355179635" />
+    <state x="104" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593345004444">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state x="104" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1300.768@0.0.1300.768" timestamp="1593123808122" />
+    <state x="104" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1302.768@0.0.1302.768" timestamp="1593345004444" />
+    <state x="412" y="188" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593347727023">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state x="412" y="188" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1302.768@0.0.1302.768" timestamp="1593347727023" />
+    <state x="289" y="72" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog" timestamp="1593158112813">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state x="289" y="72" key="#com.intellij.ide.fileTemplates.ui.ConfigureTemplatesDialog/0.0.1300.768@0.0.1300.768" timestamp="1593158112813" />
+    <state x="456" y="94" key="#com.intellij.ide.util.MemberChooser" timestamp="1593346265727">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state x="456" y="94" key="#com.intellij.ide.util.MemberChooser/0.0.1302.768@0.0.1302.768" timestamp="1593346265727" />
+    <state x="456" y="94" key="#com.intellij.ide.util.MemberChooser/0.0.1303.768@0.0.1303.768" timestamp="1593085543105" />
+    <state x="380" y="169" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1593347136102">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state x="379" y="169" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1300.768@0.0.1300.768" timestamp="1593123792541" />
+    <state x="380" y="169" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1302.768@0.0.1302.768" timestamp="1593347136102" />
+    <state x="481" y="95" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1593354797227">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state x="481" y="95" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1302.768@0.0.1302.768" timestamp="1593354797227" />
+    <state x="447" y="270" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593117042410">
+      <screen x="0" y="0" width="1303" height="768" />
+    </state>
+    <state x="447" y="270" width="408" height="237" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1303.768@0.0.1303.768" timestamp="1593117042410" />
+    <state x="101" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593100964493">
+      <screen x="0" y="0" width="1303" height="768" />
+    </state>
+    <state x="101" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1303.768@0.0.1303.768" timestamp="1593100964493" />
+    <state x="381" y="132" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592997491851">
+      <screen x="0" y="0" width="1303" height="768" />
+    </state>
+    <state x="381" y="132" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1303.768@0.0.1303.768" timestamp="1592997491851" />
+    <state x="398" y="188" key="#com.intellij.tools.ToolEditorDialog" timestamp="1593135622884">
+      <screen x="0" y="0" width="1300" height="768" />
+    </state>
+    <state x="398" y="188" key="#com.intellij.tools.ToolEditorDialog/0.0.1300.768@0.0.1300.768" timestamp="1593135622884" />
+    <state width="471" height="446" key="DebuggerActiveHint" timestamp="1593080425731">
+      <screen x="0" y="0" width="1303" height="768" />
+    </state>
+    <state width="471" height="446" key="DebuggerActiveHint/0.0.1303.768@0.0.1303.768" timestamp="1593080425731" />
+    <state x="431" y="140" key="FileChooserDialogImpl" timestamp="1593354987307">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state x="430" y="140" key="FileChooserDialogImpl/0.0.1300.768@0.0.1300.768" timestamp="1593134990747" />
+    <state x="431" y="140" key="FileChooserDialogImpl/0.0.1302.768@0.0.1302.768" timestamp="1593354987307" />
+    <state x="431" y="140" key="FileChooserDialogImpl/0.0.1303.768@0.0.1303.768" timestamp="1593029830216" />
+    <state width="1242" height="184" key="GridCell.Tab.0.bottom" timestamp="1593354927151">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state width="1257" height="2" key="GridCell.Tab.0.bottom/0.0.1300.768@0.0.1300.768" timestamp="1593178417038" />
+    <state width="1242" height="184" key="GridCell.Tab.0.bottom/0.0.1302.768@0.0.1302.768" timestamp="1593354927151" />
+    <state width="1260" height="120" key="GridCell.Tab.0.bottom/0.0.1303.768@0.0.1303.768" timestamp="1593121907988" />
+    <state width="1242" height="184" key="GridCell.Tab.0.center" timestamp="1593354927151">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state width="1257" height="2" key="GridCell.Tab.0.center/0.0.1300.768@0.0.1300.768" timestamp="1593178417038" />
+    <state width="1242" height="184" key="GridCell.Tab.0.center/0.0.1302.768@0.0.1302.768" timestamp="1593354927151" />
+    <state width="1260" height="120" key="GridCell.Tab.0.center/0.0.1303.768@0.0.1303.768" timestamp="1593121907987" />
+    <state width="1242" height="184" key="GridCell.Tab.0.left" timestamp="1593354927150">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state width="1257" height="2" key="GridCell.Tab.0.left/0.0.1300.768@0.0.1300.768" timestamp="1593178417037" />
+    <state width="1242" height="184" key="GridCell.Tab.0.left/0.0.1302.768@0.0.1302.768" timestamp="1593354927150" />
+    <state width="1260" height="120" key="GridCell.Tab.0.left/0.0.1303.768@0.0.1303.768" timestamp="1593121907987" />
+    <state width="1242" height="184" key="GridCell.Tab.0.right" timestamp="1593354927151">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state width="1257" height="2" key="GridCell.Tab.0.right/0.0.1300.768@0.0.1300.768" timestamp="1593178417038" />
+    <state width="1242" height="184" key="GridCell.Tab.0.right/0.0.1302.768@0.0.1302.768" timestamp="1593354927151" />
+    <state width="1260" height="120" key="GridCell.Tab.0.right/0.0.1303.768@0.0.1303.768" timestamp="1593121907987" />
+    <state width="1240" height="281" key="GridCell.Tab.1.bottom" timestamp="1593343486823">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state width="1257" height="285" key="GridCell.Tab.1.bottom/0.0.1300.768@0.0.1300.768" timestamp="1593170382900" />
+    <state width="1240" height="281" key="GridCell.Tab.1.bottom/0.0.1302.768@0.0.1302.768" timestamp="1593343486823" />
+    <state width="1260" height="196" key="GridCell.Tab.1.bottom/0.0.1303.768@0.0.1303.768" timestamp="1593117859706" />
+    <state width="1240" height="281" key="GridCell.Tab.1.center" timestamp="1593343486823">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state width="1257" height="285" key="GridCell.Tab.1.center/0.0.1300.768@0.0.1300.768" timestamp="1593170382900" />
+    <state width="1240" height="281" key="GridCell.Tab.1.center/0.0.1302.768@0.0.1302.768" timestamp="1593343486823" />
+    <state width="1260" height="196" key="GridCell.Tab.1.center/0.0.1303.768@0.0.1303.768" timestamp="1593117859706" />
+    <state width="1240" height="281" key="GridCell.Tab.1.left" timestamp="1593343486823">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state width="1257" height="285" key="GridCell.Tab.1.left/0.0.1300.768@0.0.1300.768" timestamp="1593170382900" />
+    <state width="1240" height="281" key="GridCell.Tab.1.left/0.0.1302.768@0.0.1302.768" timestamp="1593343486823" />
+    <state width="1260" height="196" key="GridCell.Tab.1.left/0.0.1303.768@0.0.1303.768" timestamp="1593117859706" />
+    <state width="1240" height="281" key="GridCell.Tab.1.right" timestamp="1593343486823">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state width="1257" height="285" key="GridCell.Tab.1.right/0.0.1300.768@0.0.1300.768" timestamp="1593170382900" />
+    <state width="1240" height="281" key="GridCell.Tab.1.right/0.0.1302.768@0.0.1302.768" timestamp="1593343486823" />
+    <state width="1260" height="196" key="GridCell.Tab.1.right/0.0.1303.768@0.0.1303.768" timestamp="1593117859706" />
+    <state x="131" y="0" key="SettingsEditor" timestamp="1593354819924">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state x="131" y="0" key="SettingsEditor/0.0.1300.768@0.0.1300.768" timestamp="1593158581194" />
+    <state x="131" y="0" key="SettingsEditor/0.0.1302.768@0.0.1302.768" timestamp="1593354819924" />
+    <state x="131" y="0" key="SettingsEditor/0.0.1303.768@0.0.1303.768" timestamp="1593029831004" />
+    <state x="347" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1593355120898">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state x="347" y="209" key="com.intellij.ide.util.TipDialog/0.0.1302.768@0.0.1302.768" timestamp="1593355120898" />
+    <state x="358" y="13" key="refactoring.ChangeSignatureDialog" timestamp="1593037301143">
+      <screen x="0" y="0" width="1303" height="768" />
+    </state>
+    <state x="358" y="13" key="refactoring.ChangeSignatureDialog/0.0.1303.768@0.0.1303.768" timestamp="1593037301143" />
+    <state x="308" y="172" key="run.anything.popup" timestamp="1593116471375">
+      <screen x="0" y="0" width="1303" height="768" />
+    </state>
+    <state x="308" y="172" key="run.anything.popup/0.0.1303.768@0.0.1303.768" timestamp="1593116471375" />
+    <state x="313" y="89" width="674" height="678" key="search.everywhere.popup" timestamp="1593341909162">
+      <screen x="0" y="0" width="1302" height="768" />
+    </state>
+    <state x="313" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1300.768@0.0.1300.768" timestamp="1593135524021" />
+    <state x="313" y="89" width="674" height="678" key="search.everywhere.popup/0.0.1302.768@0.0.1302.768" timestamp="1593341909162" />
+    <state x="314" y="89" width="672" height="678" key="search.everywhere.popup/0.0.1303.768@0.0.1303.768" timestamp="1592845917370" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Model/MyModel.java</url>
+          <line>285</line>
+          <properties />
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/View/MyViewController.java</url>
+          <line>106</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/View/FirstController.java</url>
+          <line>131</line>
+          <properties class="View.FirstController" method="onClickExit">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ATP-Project-PartC.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="79" lean-forward="true" selection-start-line="6" selection-start-column="79" selection-end-line="6" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/View/MazeDisplayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1309">
+          <caret line="90" selection-start-line="90" selection-end-line="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/ATP-Project-PartB.jar!/algorithms/mazeGenerators/Maze.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/ATP-Project-PartB.jar!/algorithms/mazeGenerators/MyMazeGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="35" column="17" selection-start-line="35" selection-start-column="17" selection-end-line="35" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/ATP-Project-PartB.jar!/algorithms/mazeGenerators/EmptyMazeGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/ATP-Project-PartB.jar!/algorithms/mazeGenerators/SimpleMazeGenerator.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-283">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/ATP-Project-PartB.jar!/Client/Client.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>ATP-Project-PartC:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ATP-Project-PartC</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.08510637" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>ATP-Project-PartB</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.MyViewController">
+   <children>
+      <Button fx:id="saveButton" layoutX="86.0" layoutY="239.0" mnemonicParsing="false" onAction="#saveInDisk" prefHeight="25.0" prefWidth="70.0" text="save" />
+      <TextField fx:id="text_save_maze" layoutX="41.0" layoutY="207.0" prefHeight="25.0" prefWidth="159.0" />
+      <Label layoutX="55.0" layoutY="176.0" prefHeight="17.0" prefWidth="132.0" text="Choose name:" />
+   </children>
+</AnchorPane>

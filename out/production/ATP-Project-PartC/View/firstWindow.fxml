@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.collections.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<BorderPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="658.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1" fx:controller="View.FirstController">
+   <top>
+      <VBox prefHeight="17.0" prefWidth="600.0" BorderPane.alignment="CENTER">
+         <children>
+            <MenuBar maxWidth="-Infinity" prefHeight="35.0" prefWidth="91.0">
+              <menus>
+                  <Menu mnemonicParsing="false" text="Options">
+                      <items>
+                          <MenuItem mnemonicParsing="false" onAction="#onClickAbout" text="About" />
+                          <MenuItem mnemonicParsing="false" onAction="#onClickExit" text="Exit" />
+                      </items>
+                  </Menu>
+              </menus>
+            </MenuBar>
+         </children></VBox>
+   </top>
+   <left>
+      <Pane prefHeight="633.0" prefWidth="588.0" BorderPane.alignment="CENTER">
+         <children>
+            <ImageView fx:id="imageView" fitHeight="460.0" fitWidth="572.0" layoutX="54.0" layoutY="25.0" pickOnBounds="true" preserveRatio="true">
+               </ImageView>
+            <ComboBox fx:id="combo_boxAlgo" layoutX="155.0" layoutY="182.0" onAction="#clickAlgo" prefHeight="58.0" prefWidth="238.0" promptText="CHOOSE ALGORITHM" styleClass="center">
+               <items>
+                  <FXCollections fx:factory="observableArrayList">
+                  <String fx:value="BestFirstSearch" />
+                  <String fx:value="BFS" />
+                  <String fx:value="DFS" />
+               </FXCollections>
+               </items>
+            </ComboBox>
+      
+            <ComboBox fx:id="combo_boxGenerate" layoutX="155.0" layoutY="272.0" onAction="#clickGenerate" prefHeight="58.0" prefWidth="238.0" promptText="CHOOSE GENERATING METHOD">
+               <items>
+                  <FXCollections fx:factory="observableArrayList">
+                     <String fx:value="MyMazeGenerator" />
+                     <String fx:value="SimpleMazeGenerator" />
+                     <String fx:value="EmptyMazeGenerator" />
+                  </FXCollections>
+               </items>
+            </ComboBox>
+            <Label fx:id="mylabel" layoutX="216.0" layoutY="132.0" prefHeight="38.0" prefWidth="145.0" text="  Optional">
+               <font>
+                  <Font size="14.0" />
+               </font>
+            </Label>
+            <Button fx:id="startPlay" alignment="CENTER" contentDisplay="CENTER" layoutX="118.0" layoutY="515.0" mnemonicParsing="false" onAction="#startPlay" prefHeight="39.0" prefWidth="334.0" text="Find the snitch!">
+               <font>
+                  <Font size="18.0" />
+               </font>
+            </Button>
+         </children>
+      </Pane>
+   </left>
+</BorderPane>

@@ -1,0 +1,33 @@
+
+.root{
+
+    -fx-background-image: url("/images/hermione.jpg");
+    -fx-background-repeat: repeat;
+    -fx-background-size: 500 300;
+    -fx-background-position: center center;
+    -fx-effect: dropshadow(three-pass-box, black, 30, 0.5, 0, 0);
+
+}
+
+Label {
+    -fx-font-weight: bold;
+    -fx-text-fill:#fbf9f7;
+    -fx-font-size: 20;
+}
+
+Button{
+    -fx-background-color: linear-gradient(#81c5df, #dfd8c3);
+    -fx-background-radius: 30;
+    -fx-background-insets: 0;
+    -fx-text-fill: black;
+    -fx-font-size: 15;
+    -fx-font-weight: bold;
+}
+
+  Button:hover {
+   -fx-background-color: linear-gradient(#dfd8c3, #81c5df);
+       -fx-background-radius: 30;
+       -fx-background-insets: 0;
+       -fx-text-fill: black;
+       -fx-font-size: 15;
+  }
