@@ -45,7 +45,7 @@ public class Main extends Application {
         primaryStage.show();
         media = new MediaPlayer(new Media(getClass().getResource("/Song.mp3").toURI().toString()));
         media.setCycleCount(MediaPlayer.INDEFINITE);
-        media.play();
+        //media.play();
 
         primaryStage.setOnCloseRequest(new EventHandler<WindowEvent>() {
             @Override
